@@ -4,5 +4,10 @@
       "device_id": "cebdb96d7002acf2",
       "active": true
     }
+  },
+  "devices": {
+    "1c702a68b8b0c8aa": {
+      "active": true
+    }
   }
 }
